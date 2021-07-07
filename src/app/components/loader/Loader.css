@@ -1,0 +1,10 @@
+.loader{
+    margin: 0 0 2em;
+    height: 380px;
+    text-align: center;
+    align-items: center;
+    padding: 1em;
+    margin: 0 auto 1em;
+    display: inline-block;
+    vertical-align: top;
+}

@@ -1,0 +1,51 @@
+.listCont a{
+    position: relative;
+    margin: 0 15px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    display: flex;
+    padding: 3px;
+    border: 1px solid orange; 
+    border-radius: 5px;    
+    margin-bottom: 10px;  
+    width: 350px; 
+}
+
+.listCont a p{
+    margin-left: 10px;
+}
+
+.listCont a img{
+    align-items: center;
+    justify-content: center;
+}
+
+.fullModal{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    text-align: center;
+    border: 1px solid orange;
+    border-radius: 5px;
+}
+
+button{
+    border: 1px solid orange;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #fff;
+    cursor: pointer;
+    outline: none;
+}
+
+.btnPages{
+    display: flex;
+    padding: 0 110px 0 110px;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+
